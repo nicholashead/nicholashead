@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [HireAHelper.com](https://www.hireahelper.com/)
 
-- 📫 How to reach me **nicholas@esotericmedley.com**
+- 📫 How to reach me - https://keybase.io/nicholashead
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
