@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/_iransofaraway" target="blank"><img src="https://img.shields.io/twitter/follow/_iransofaraway?logo=twitter&style=for-the-badge" alt="_iransofaraway" /></a> </p>
 
+- 🔭 I’m currently working on [HireAHelper.com](https://www.hireahelper.com/)
+
+- 📫 How to reach me **nicholas@esotericmedley.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nicholashead" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nicholashead" height="30" width="40" /></a>
