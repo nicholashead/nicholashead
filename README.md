@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholashead" alt="nicholashead" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_iransofaraway" target="blank"><img src="https://img.shields.io/twitter/follow/_iransofaraway?logo=twitter&style=for-the-badge" alt="_iransofaraway" /></a> </p>
-
 - 🔭 I’m currently working on [HireAHelper.com](https://www.hireahelper.com/)
 
 - 📫 How to reach me - https://keybase.io/nicholashead
