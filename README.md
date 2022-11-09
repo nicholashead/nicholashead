@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicholas</h1>
-<h3 align="center">A software engineer from California, doing this professionally for 21+ years now.</h3>
+<h3 align="center">A Staff Engineer from California, doing this professionally for 22+ years now.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicholashead&label=Profile%20views&color=8c53b2&style=flat-square" alt="nicholashead" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicholashead" alt="nicholashead" /></a> </p>
 
-- 🔭 I’m currently working on [HireAHelper.com](https://www.hireahelper.com/)
+- 🔭 I’m currently working on [HireAHelper.com](https://www.hireahelper.com/) - which is part of [Porch.com](https://porch.com/)
 
 - 📫 How to reach me - https://keybase.io/nicholashead
 
